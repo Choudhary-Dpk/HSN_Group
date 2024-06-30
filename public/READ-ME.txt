@@ -1,0 +1,9 @@
+  =>  Template Name    : KSN - Group
+
+  =>  Template Link    : https://htmlcodex.com/renewable-energy-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : ClickClack Infotech
+
+  =>  Author Website   : https://htmlcodex.com
